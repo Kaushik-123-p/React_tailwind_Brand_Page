@@ -39,5 +39,5 @@ Follow these steps to set up and run the project:
    ```
 
 ## images 
-
+1. Main Page
 ![Main page](https://github.com/Kaushik-123-p/React_tailwind_Brand_Page/blob/master/Images/Screenshot%202025-01-28%20223914.png)
